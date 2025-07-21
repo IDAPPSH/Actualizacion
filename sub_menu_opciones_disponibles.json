@@ -1,13 +1,14 @@
 {
-  " 1 AGREGAR NUEVA CUENTA": true,
-  " 2 LISTA DE USUARIOS": true,
-  " 3 CAMBIAR CUENTA DE INICIO": true,
-  " 4 CARRUSEL": true,
-  " 5 INICIAR MULTI CUENTAS": true,
-  " 6 ACTIVAR VPN RANDOM": false,
-  " 7 INSTALL INSTALL": false,
-  " 8 WEB": true,
-  " 9 ELIMINAR REGISTROS": true,
-  "10 DETALLES": true,
-  " X VOLVER AL MENÚ PRINCIPAL": true
+  "1 AGREGAR NUEVA CUENTA": true,
+  "2 LISTA DE USUARIOS": true,
+  "3 CAMBIAR CUENTA DE INICIO": true,
+  "4 CARRUSEL": true,
+  "5 INICIAR MULTI CUENTAS": true,
+  "6 ACTIVAR VPN RANDOM": false,
+  "7 DETALLES": true,
+  "8 INSTALL INSTALL": false,
+  "9 ELIMINAR REGISTROS": true,
+  "W WEB": true,
+  "X VOLVER AL MENÚ PRINCIPAL": true
 }
+
