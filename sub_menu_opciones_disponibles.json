@@ -9,6 +9,7 @@
   "8 INSTALL INSTALL": false,
   "9 ELIMINAR REGISTROS": true,
   "W WEB": true,
-  "X VOLVER AL MENÚ PRINCIPAL": true
+  "X VOLVER AL MENÚ PRINCIPAL": true,
+  "COLOR": false,
+  "DECORECION": true
 }
-
